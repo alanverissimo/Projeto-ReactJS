@@ -12,8 +12,7 @@ Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
 
 Digite o nome de usuário do GitHub seguido de uma barra ( / ) e, então, o nome do repositório desejado.
 
-Ex.: facebook/react
-rocketseat/unform
+Ex.: facebook/react | rocketseat/unform
 
 ------------------------------------------------------------------
 
